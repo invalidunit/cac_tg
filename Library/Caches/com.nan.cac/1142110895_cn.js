@@ -6,5 +6,5 @@
   "version": "30.3.0",
   "version_id": 866847750,
   "price": "免费",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/bc/18/96bc182d-e579-b1e2-81a8-f55a1805ce2a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/25/90/ee259050-6e93-6f8a-1068-9c299b0db7f5/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg"
 }
