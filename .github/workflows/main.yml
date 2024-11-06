@@ -7,7 +7,7 @@ on:
     - cron: '40 * * * *'
 
 jobs:
-  build:
+  cac:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -32,9 +32,9 @@ jobs:
           chmod -R 0755 '/tmp/jo_install.sh'
           sudo '/tmp/jo_install.sh'
           
-      - name: move cac
+      - name: download cac
         run: |
-          sudo cp -a './cac' '/usr/bin/cac'
+          sudo curl -L -o '/usr/bin/cac' 'https://raw.githubusercontent.com/invalidunit/check_change/main/telegram/cac'
           sudo chmod -R 0755 '/usr/bin/cac'
 
       - name: cac
@@ -56,7 +56,11 @@ jobs:
             git commit -m 'save caches'
             git push
           fi
-          
+
+  remove_all_old_actions:
+    runs-on: ubuntu-latest
+    steps:
+
       - name: download remove_all_actions
         run: |
           sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
