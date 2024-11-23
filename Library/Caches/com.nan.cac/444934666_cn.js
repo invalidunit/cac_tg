@@ -4,6 +4,6 @@
   "id": 444934666,
   "name": "QQ",
   "version": "9.1.16",
-  "version_id": 870533773,
-  "price": "免费"
+  "version_id": null,
+  "price": null
 }
