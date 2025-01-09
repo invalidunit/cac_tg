@@ -3,7 +3,7 @@
   "bundle": "com.ss.iphone.ugc.Aweme",
   "id": 1142110895,
   "name": "抖音",
-  "version": "32.6.0",
+  "version": "32.8.0",
   "price": "免费",
   "image": null
 }
