@@ -3,7 +3,7 @@
   "bundle": "com.tencent.mqq",
   "id": 444934666,
   "name": "QQ",
-  "version": "9.1.75",
+  "version": "9.1.90",
   "price": "免费",
   "image": null
 }
