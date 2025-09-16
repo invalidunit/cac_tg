@@ -4,6 +4,6 @@
   "id": 414478124,
   "name": "微信",
   "version": "8.0.63",
-  "price": "免费",
+  "price": null,
   "image": null
 }
