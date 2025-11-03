@@ -4,6 +4,6 @@
   "id": 1142110895,
   "name": "抖音",
   "version": "36.4.0",
-  "price": "免费",
+  "price": null,
   "image": null
 }
