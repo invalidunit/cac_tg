@@ -1,9 +1,11 @@
 {
   "status": 0,
-  "bundle": "com.tencent.xin",
   "id": 414478124,
+  "bundle": "com.tencent.xin",
   "name": "微信",
   "version": "8.0.64",
-  "price": null,
+  "version_id": 878165911,
+  "version_release_timestamp": "2025-09-26T07:55:35Z",
+  "price": "CNY 0.00",
   "image": null
 }
