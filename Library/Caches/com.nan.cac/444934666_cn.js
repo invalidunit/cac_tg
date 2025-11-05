@@ -6,6 +6,6 @@
   "version": "9.2.25",
   "version_id": 878983500,
   "version_release_timestamp": "2025-10-17T03:03:53Z",
-  "price": "CNY 0.00",
+  "price": null,
   "image": null
 }
