@@ -3,9 +3,9 @@
   "id": 444934666,
   "bundle": "com.tencent.mqq",
   "name": "QQ",
-  "version": "9.2.25",
-  "version_id": 878983500,
-  "version_release_timestamp": "2025-10-17T03:03:53Z",
+  "version": "9.2.30",
+  "version_id": 879586122,
+  "version_release_timestamp": "2025-11-10T10:01:45Z",
   "price": null,
   "image": null
 }
