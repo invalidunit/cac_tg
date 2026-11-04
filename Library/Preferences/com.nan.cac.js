@@ -11,7 +11,7 @@
       "url": "https://apps.apple.com/cn/app/id414478124"
     },
     {
-      "enable": 0,
+      "enable": 1,
       "name": "抖音",
       "url": "https://apps.apple.com/cn/app/id1142110895"
     }
